@@ -1,13 +1,16 @@
-<a href="#"></a>
-<img width="100%" height="100%" src="https://thumbs.gfycat.com/BewitchedAntiqueAllensbigearedbat-size_restricted.gif"/></a>
+<div style="position:relative">
 
-<h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px ">, I'm Gioia</h1>
+<img width="100%" src="https://thumbs.gfycat.com/BewitchedAntiqueAllensbigearedbat-size_restricted.gif" style=""/>
+
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px " style="position:absolute top:0"/>, I'm Gioia</h1>
+
+</div>
 
 ## 🙋‍♂️ About Me
 
 🌱 I’m currently studying to become a **full-stack web developer**
 
-📫 How to reach me **gioia.ascari@gmail.com**
+📫 How to reach me **gioia.ascari96@gmail.com**
 
 ⚡ Fun fact **I'm a graphic designer too :))**
 
