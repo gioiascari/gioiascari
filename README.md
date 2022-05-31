@@ -1,10 +1,8 @@
-<div style="position:relative">
-    
-
-<img width="100%" src="https://thumbs.gfycat.com/BewitchedAntiqueAllensbigearedbat-size_restricted.gif" style=""/>
-
-<h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px " style="position:absolute top:0"/>, I'm Gioia</h1>
-<img src="https://komarev.com/ghpvc/?username=gioiascari&color=ff69b4" />
+<img data-target="animated-image.replacedImage" alt="a flying rocket" class="AnimatedImagePlayer-animatedImage" src="https://github.com/redwarp/gif-wallpaper/raw/main/assets/samples/rocket.gif" width="480" height="480" style="display: block; opacity: 1;">
+<!-- <img width="100%" src="https://thumbs.gfycat.com/BewitchedAntiqueAllensbigearedbat-size_restricted.gif" style=""/> -->
+<div align="center">
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px "/>, I'm Gioia</h1>
+<img src="https://komarev.com/ghpvc/?username=gioiascari&color=ff69b4"/>
 </div>
 
 ### :woman_technologist: About Me
