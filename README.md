@@ -1,9 +1,10 @@
 <div style="position:relative">
+    
 
 <img width="100%" src="https://thumbs.gfycat.com/BewitchedAntiqueAllensbigearedbat-size_restricted.gif" style=""/>
 
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px " style="position:absolute top:0"/>, I'm Gioia</h1>
-
+<img src="https://komarev.com/ghpvc/?username=gioiascari&color=pink%22/%3E/>
 </div>
 
 ### :woman_technologist: About Me
