@@ -1,6 +1,7 @@
-<img data-target="animated-image.replacedImage" alt="a flying rocket" class="AnimatedImagePlayer-animatedImage" src="https://github.com/redwarp/gif-wallpaper/raw/main/assets/samples/rocket.gif" width="480" height="480" style="display: block; opacity: 1;">
-<!-- <img width="100%" src="https://thumbs.gfycat.com/BewitchedAntiqueAllensbigearedbat-size_restricted.gif" style=""/> -->
 <div align="center">
+<img src="https://i.pinimg.com/originals/c6/90/ff/c690ffa13931ade950187d667b21fecb.gif" align="center">
+<!-- <img width="100%" src="https://thumbs.gfycat.com/BewitchedAntiqueAllensbigearedbat-size_restricted.gif" style=""/> -->
+
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px "/>, I'm Gioia</h1>
 <img src="https://komarev.com/ghpvc/?username=gioiascari&color=ff69b4"/>
 </div>
