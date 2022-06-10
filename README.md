@@ -2,7 +2,7 @@
 <img src="https://i.pinimg.com/originals/c6/90/ff/c690ffa13931ade950187d667b21fecb.gif" align="center">
 <!-- <img width="100%" src="https://thumbs.gfycat.com/BewitchedAntiqueAllensbigearedbat-size_restricted.gif" style=""/> -->
 
-<h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50% "/>, I'm Gioia</h1>
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40"/>, I'm Gioia</h1>
 <img src="https://komarev.com/ghpvc/?username=gioiascari&color=ff69b4"/>
 </div>
 
