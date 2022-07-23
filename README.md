@@ -8,7 +8,7 @@
 
 ### :woman_technologist: About Me
 
-🌱 I’m currently studying to become a **full-stack web developer**
+🌱 I’m a **full-stack web developer**
 
 📫 How to reach me **gioia.ascari96@gmail.com**
 
